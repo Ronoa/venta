@@ -1,0 +1,4 @@
+raiz principal del proyecto
+    npm run start
+acceder a la carpeta backend
+     nodemon server    
